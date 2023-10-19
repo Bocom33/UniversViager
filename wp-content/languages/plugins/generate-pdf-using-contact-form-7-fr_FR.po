@@ -1,0 +1,288 @@
+# Translation of Plugins - Generate PDF using Contact Form 7 - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Generate PDF using Contact Form 7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-03 17:27:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Generate PDF using Contact Form 7 - Development (trunk)\n"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:572
+msgid "<h3> Enable pdf attachment in mail ? </h3><p>You can disable / enable PDF attachment in mail</p>"
+msgstr "<h3> Activer les fichiers PDF joints dans lles e-mails ? </h3><p>Vous pouvez désactiver/activer les fichiers PDF joints dans vos e-mails</p> <p>."
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:206
+msgid "Do you want to upload pdf or customize pdf?"
+msgstr "Voulez-vous téléverser ou personnaliser un pdf ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:183
+msgid "Do you want to attach pdf in mail ?"
+msgstr "Voulez-vous joindre un pdf à votre e-mail ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:161
+msgid "Do you want to remove PDF attachment after mail sent?"
+msgstr "Voulez-vous retirer le fichier PDF joint après l’envoi de l’e-mail ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:639
+msgid "<h3>Attach PDF</h3><p>Exceed limit of PDF file is 25MB.</p>"
+msgstr "<h3>Attacher le PDF</h3><p>Le fichier PDF ne doit pas dépasser 25MB.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:626
+msgid "<h3>PDF Text Font Size</h3><p>You can set PDF font size from this option. For Proper outpup we have set Min - 6px and Max - 30px do not exceed from that. Default Font size is 9px.</p>"
+msgstr "<h3>Taille de la police du texte PDF</h3><p>Vous pouvez définir la taille de la police du PDF à partir de cette option. Pour un affichage correct, nous avons fixé la taille minimale à 6 px et la taille maximale à 30 px, à ne pas dépasser. La taille de police par défaut est de 9px.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:613
+msgid "<h3>Message body</h3><p>You can manage body content of the message which will automatically reflect in the PDF attachement.</p><p>For the new page you can use &lt;pagebreak&gt; tag</p><p>For acceptance checkbox cf7 tag prefix should be like [acceptance-123]</p>"
+msgstr "<h3>Corps du message</h3><p>Vous pouvez gérer le contenu du corps du message qui sera automatiquement reflété dans la pièce jointe PDF.</p><p>Pour la nouvelle page, vous pouvez utiliser la balise <pagebreak></p><p>Pour la case à cocher d’acceptation, le préfixe de la balise cf7 doit être comme [acceptance-123]</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:599
+msgid "<h3>PDF header logo</h3><p>Customize header logo, upload logo of approx 160px X 85px the logo will automatically reflect on the top-left side of the PDF document.Only allow JPEG/PNG file format.</p>"
+msgstr "<h3>Les logos d’en-tête PDF</h3><p>Personnaliser le logo d’en-tête, téléverser un logo d’environ 160px X 85px, le logo sera automatiquement reflété en haut à gauche du document PDF.</p> <p>Seul le format de fichier JPEG/PNG est autorisé.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:586
+msgid "<h3>Want to attach own PDF in mail ?</h3><p>You can also attach any predefined PDF file from your system, e.g. brochure.</p>"
+msgstr "<h3>Vous souhaitez joindre votre propre fichier PDF à votre e-mail ? </h3><p>Vous pouvez également joindre n’importe quel fichier PDF prédéfini de votre système, par exemple une brochure.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:559
+msgid "<h3> Enable PDF Link with Form Success Message ? </h3><p>You can disable / enable PDF Link with Form Success Message for each form.</p>"
+msgstr "<h3> Activer le lien PDF avec le message de réussite du formulaire ? </h3><p>Vous pouvez désactiver/activer le lien PDF avec le message de réussite du formulaire pour chaque formulaire.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:546
+msgid "<h3>Enable PDF file operation ?</h3><p>You can disable / enable PDF attachment functionality for each form.</p>"
+msgstr "<h3>Activer l’opération de fichier PDF ?</h3><p>Vous pouvez désactiver/activer la fonctionnalité de fichier joint PDF pour chaque formulaire.</p>"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:533
+msgid "<h3>Select the contact form </h3><p>Select the form that you want to amend before sending as a PDF attachment</p>"
+msgstr "<h3>Sélectionnez le formulaire de contact </h3><p>Sélectionnez le formulaire que vous souhaitez modifier avant de l’envoyer en fichier joint au format PDF</p> <p>."
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:485
+msgid "Attached PDF file"
+msgstr "Fichier PDF joint"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:465
+msgid "Attach PDF"
+msgstr "Joindre en PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:453
+msgid "For more information"
+msgstr "Pour plus d’information"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:451
+msgid "nbpgSuffix"
+msgstr "nbpgSuffix"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:446
+msgid "nbpgPrefix"
+msgstr "nbpgPrefix"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:440
+msgid "pagenumSuffix"
+msgstr "pagenumSuffix"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:435
+msgid "pagenumPrefix "
+msgstr "pagenumPrefix "
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:430
+msgid "Footer Pagination"
+msgstr "Pagination du pied de page"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:420
+msgid "Download file link text"
+msgstr "Télécharger le fichier lien texte"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:415
+msgid "PDF background Image (JPG, GIF, PNG, WMF and SVG) URL"
+msgstr "URL de l’image d’arrière-plan du PDF (JPG, GIF, PNG, WMF et SVG)"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:410
+msgid "PDF File background Image"
+msgstr "Image d’arrière-plan du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:400
+msgid "PDF File Name Prefix"
+msgstr "Préfixe du nom du fichier PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:383
+msgid "PDF Message body"
+msgstr "Corps du message PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:366
+msgid "Field tags"
+msgstr "Étiquette de champs"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:354
+msgid "PDF Text Font size"
+msgstr "Taille de police du texte PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:344
+msgid "PDF Bottom Left Footer Texts"
+msgstr "Textes du pied de page inférieur gauche du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:334
+msgid "PDF Top Right Header Texts"
+msgstr "Textes d’en-tête en haut à droite du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:323
+msgid "Set PDF Margin of Right"
+msgstr "Définir la marge externe de droite du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:313
+msgid "Set PDF Margin of Left"
+msgstr "Définir la marge externe gauche du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:303
+msgid "Set PDF Margin of Bottom"
+msgstr "Définir la marge externe inférieure du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:293
+msgid "Set PDF Margin of Top"
+msgstr "Définir la marge externe supérieure du PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:283
+msgid "Set PDF Margin of Footer"
+msgstr "Définir la marge externe PDF du pied de page"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:273
+msgid "Set PDF Margin of Header"
+msgstr "Définir la marge externe de l’en-tête PDF"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:263
+msgid "Min Width for logo"
+msgstr "Largeur minimale du logo"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:253
+msgid "Max Width for logo"
+msgstr "Largeur maximale du logo"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:238
+msgid "Select or Upload header logo"
+msgstr "Sélectionner ou téléverser le logo de l’en-tête"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:226
+msgid "Do you want to customize header logo in PDF?"
+msgstr "Voulez-vous personnaliser le logo de l’en-tête en PDF ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:145
+msgid "Enable PDF Link with Form Success Message ?"
+msgstr "Activer le lien PDF avec le message de réussite du formulaire ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:137
+#: inc/templates/cf7-pdf-generation.admin.html.php:156
+#: inc/templates/cf7-pdf-generation.admin.html.php:171
+#: inc/templates/cf7-pdf-generation.admin.html.php:194
+#: inc/templates/cf7-pdf-generation.admin.html.php:217
+msgid "No"
+msgstr "Non"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:134
+#: inc/templates/cf7-pdf-generation.admin.html.php:153
+#: inc/templates/cf7-pdf-generation.admin.html.php:168
+#: inc/templates/cf7-pdf-generation.admin.html.php:191
+#: inc/templates/cf7-pdf-generation.admin.html.php:215
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:126
+msgid "Enable PDF file operation ?"
+msgstr "Activer le fonctionnement des fichiers PDF ?"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:110
+msgid "There has been an error with uploading PDF."
+msgstr "Une erreur s’est produite lors du téléversement du PDF."
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:106
+msgid "Setting saved successfully!"
+msgstr "Réglages bien enregistrés !"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:87
+msgid ""
+"Your Name : [your-name]\n"
+"Your Email : [your-email]\n"
+"Subject : [your-subject]\n"
+"Your Message : [your-message]"
+msgstr ""
+"Votre nom : [votre-nom]\n"
+"Votre e-mail : [votre-e-mail]\n"
+"Objet : [votre-sujet]\n"
+"Votre message : [votre-message]"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:33
+msgid "-- Select a Contact Form --"
+msgstr "-- Sélectionner un formulaire de Contact Form 7 --"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:26
+msgid "Select the contact form"
+msgstr "Sélectionner un formulaire de contact"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:16
+msgid "Create your first form here."
+msgstr "Créez votre premier formulaire ici."
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:16
+msgid "No forms have not been found. %s"
+msgstr "Aucun formulaire n’a été trouvé. %s"
+
+#: inc/templates/cf7-pdf-generation.admin.html.php:10
+msgid "Generate PDF using Contact Form 7 Settings"
+msgstr "Générer un PDF en utilisant les réglages de Contact Form 7"
+
+#: inc/front/class.cf7-pdf-generation.front.action.php:244
+msgid "not accepted"
+msgstr "non accepté"
+
+#: inc/front/class.cf7-pdf-generation.front.action.php:243
+msgid "accepted"
+msgstr "accepté"
+
+#: inc/front/class.cf7-pdf-generation.front.action.php:199
+msgid "Page"
+msgstr "Page"
+
+#: inc/front/class.cf7-pdf-generation.front.action.php:97
+#: inc/front/class.cf7-pdf-generation.front.action.php:99
+#: inc/templates/cf7-pdf-generation.admin.html.php:95
+#: inc/templates/cf7-pdf-generation.admin.html.php:423
+msgid "Click here to download PDF"
+msgstr "Cliquer ici pour télécharger le PDF"
+
+#: inc/class.cf7-pdf-generation.php:90
+msgid "<b>Generate PDF using Contact Form 7 :</b> Contact Form 7 is not active! Please install <a target=\"_blank\" href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a>."
+msgstr "<b>Generate PDF using Contact Form 7 :</b> Contact Form 7 n’est pas actif ! Veuillez installer <a target=\"_blank\" href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a>."
+
+#: inc/admin/class.cf7-pdf-generation.admin.filter.php:50
+msgid "Document Link"
+msgstr "Lien vers le document"
+
+#: inc/admin/class.cf7-pdf-generation.admin.filter.php:46
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/admin/class.cf7-pdf-generation.admin.action.php:59
+#: inc/admin/class.cf7-pdf-generation.admin.action.php:60
+msgid "PDF with CF7"
+msgstr "PDF avec CF7"
+
+#. Author URI of the plugin
+msgid "https://www.zealousweb.com/"
+msgstr "https://www.zealousweb.com/"
+
+#. Author of the plugin
+msgid "ZealousWeb"
+msgstr "ZealousWeb"
+
+#. Description of the plugin
+msgid "Generate PDF using Contact Form 7 Plugin provides an easier way to download document files, open the document file or send as an attachment after the successful form submit."
+msgstr "L’extension Generate PDF using Contact Form 7 fournit un moyen plus facile de télécharger des fichiers de documents, de l’ouvrir ou de l’envoyer en tant que pièce jointe après l’envoi du formulaire avec succès."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/generate-pdf-using-contact-form-7/"
+msgstr "https://wordpress.org/plugins/generate-pdf-using-contact-form-7/"
+
+#. Plugin Name of the plugin
+msgid "Generate PDF using Contact Form 7"
+msgstr "Generate PDF using Contact Form 7"
